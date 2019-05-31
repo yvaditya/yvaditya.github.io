@@ -130,7 +130,7 @@
 			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
 						font-family: HelveNueThinNormal;
 				
-						letter-spacing: -0.05em;
+						letter-spacing: 0.15em;
 				
 						line-height: 1.4em;
 					
@@ -140,7 +140,7 @@
 	
 			.master.container.website-style .master.item-box:not(.custom) .preview-element.Link:not(.custom)  {
 		
-						font-family: Arimo;
+						font-family: HelveNueThinNormal;
 				
 						letter-spacing: 0.0em;
 				
@@ -154,7 +154,7 @@
 	
 			.master.container.website-style .master.item-box:not(.custom) .preview-subtitle:not(.custom) , 
 			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-subtitle:not(.custom) { 
-						font-family: Arimo;
+						font-family: HelveNueThinNormal;
 				
 						letter-spacing: -0.0em;
 					
@@ -164,11 +164,11 @@
 	
 			.master.container.website-style .master.item-box:not(.custom) .preview-body:not(.custom) , 
 			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-body:not(.custom) { 
-						font-family: Arial;
+						font-family: HelveNueThinNormal;
 				
 						letter-spacing: 0.0em;
 				
-						line-height: 2.0em;
+						line-height: 1.5em;
 					
 		}
 	
@@ -192,7 +192,7 @@
 						background-color: rgba(0, 0, 0, 0);	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-46rsyze6 .preview-item-links span:before  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-46rsyze6 .effect-tester  { 
-						background-color: rgb(60, 60, 60);	
+						background-color: rgb(237, 171, 38);	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-46rsyze6.master.item-box   {
 		
@@ -351,29 +351,29 @@
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .multi_layout .helper-div.middle-center  {
 		
 						padding-left: 6%;
-						padding-right: 6%;
-						width: 88%;	
+						width: 88%;
+						padding-right: 6%;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql.master.item-box   {
 		
 						background-color: rgba(0, 0, 0, 0);	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-title  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-body h1  { 
-						line-height: 1.0em;
+						font-family: Arimo;
 						font-size: 150px;
 						color: rgb(255, 255, 255);
 						letter-spacing: 0.0em;
 						font-weight: bold;
 						margin-top: 10px;
 						margin-bottom: 0px;
-						font-family: Arimo;
+						line-height: 1.0em;
 						background-color: rgba(255, 255, 255, 0);	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql.master.item-box   {
 		
 						padding-left: 0%;
-						padding-right: 0%;
-						width: 100%;	
+						width: 100%;
+						padding-right: 0%;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-item-links span  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql #sr-basket-widget *  { 
 						font-size: 13px;
@@ -395,8 +395,8 @@
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-element.icon-source  {
 		
-						margin-bottom: 15px;
-						width: 160px;	
+						width: 160px;
+						margin-bottom: 15px;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .background-image-div  {
 		
@@ -426,14 +426,14 @@
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-body  {
 		
-						line-height: 3.3em;
+						font-family: HelveNueThinNormal;
 						font-size: 12px;
 						color: rgb(170, 170, 170);
 						letter-spacing: 0.05em;
 						max-width: 600px;
 						margin-top: 5px;
 						margin-bottom: 20px;
-						font-family: HelveNueThinNormal;	
+						line-height: 3.3em;	
 		}
 	
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-social-holder  {
@@ -445,7 +445,7 @@
 						max-width: 1000px;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-subtitle  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-mplnxbql .preview-body h2  { 
-						font-family: HelveNueThinNormal;
+						line-height: 1.1em;
 						font-size: 18px;
 						color: rgb(255, 255, 255);
 						letter-spacing: 0.1em;
@@ -453,7 +453,7 @@
 						margin-top: 10px;
 						margin-left: 0px;
 						margin-bottom: 10px;
-						line-height: 1.1em;
+						font-family: HelveNueThinNormal;
 						background-color: rgba(0, 0, 0, 0);	
 		}
 
@@ -481,216 +481,6 @@
 
 
  .style-4dfd23e6-mplnxbql #vbid-4dfd23e6-epegumuv .preview-content-wrapper{
-				
-							text-align : center;
-					
-				}
-
-
-
-
-
-
-
-
-
-
-/******************************************************************************************************
- *            WEBSITE STYLE
- *                                 	 
- ******************************************************************************************************/
-/******************************************************************************************************
- *            DYNAMIC STYLE FOR style-1dbb1217-6rkb49z5
- *                                 	 
- ******************************************************************************************************/
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5  .preview-content-holder  {
-		
-						margin-right: 0px;
-						padding-bottom: 0px;
-						text-align: center;
-						max-width: 600px;
-						padding-right: 0px;
-						margin-top: 50px;
-						margin-left: 0px;
-						padding-top: 0px;
-						margin-bottom: 50px;
-						background-color: rgba(255, 255, 255, 0);
-						padding-left: 0px;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .item-content:not(.blocks_layout)  {
-		
-						background-color: rgb(234, 234, 234);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-divider  {
-		
-						border-bottom-width: 4px;
-						border-color: rgb(0, 0, 0);
-						width: 10%;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .inner-pic  {
-		
-						opacity: 0.21;
-						color: rgb(0, 0, 0);
-		    			-webkit-filter: grayscale(100%);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-subtitle-holder  {
-		
-						max-width: 1050px;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .multi_layout .helper-div.middle-center .pic-side  {
-		
-						margin-left: -6%;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .multi_layout .helper-div.middle-center  {
-		
-						padding-left: 6%;
-						padding-right: 6%;
-						width: 88%;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .background-div  {
-			
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5.master.item-box   {
-		
-						background-color: rgb(255, 255, 255);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-title  ,  .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-body h1  { 
-						line-height: 1.4em;
-						font-size: 22px;
-						color: rgb(0, 0, 0);
-						letter-spacing: 0.0em;
-						margin-top: 10px;
-						margin-bottom: 10px;
-						font-family: HelveNueThinNormal;
-						background-color: rgba(255, 255, 255, 0);
-						direction: ltr;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-item-links span  ,  .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 #sr-basket-widget *  { 
-						border-width: 2px;
-						font-size: 12px;
-						color: rgb(0, 0, 0);
-						padding-bottom: 10px;
-						border-color: rgb(0, 0, 0);
-						letter-spacing: 0.1em;
-						padding-right: 30px;
-						margin-top: 20px;
-						padding-left: 30px;
-						border-radius: 18px;
-						padding-top: 10px;
-						font-family: Arial;
-						background-color: rgba(0, 0, 0, 0);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-element.icon-source  {
-		
-						margin-bottom: 15px;
-						width: 60px;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .background-image-div  {
-		
-						color: rgb(0, 0, 0);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-item-links span:before  ,  .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .effect-tester  { 
-						background-color: rgb(0, 0, 0);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-body-holder  {
-		
-						max-width: 800px;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5  .preview-content-wrapper  {
-		
-						text-align: center;
-						vertical-align: middle;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-item-links span:hover  ,  .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-element.Link.hover-tester  { 
-						color: rgb(255, 255, 255);
-						background-color: rgb(0, 0, 0);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .inner-pic-holder  {
-		
-						background-color: rgb(234, 234, 234);	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-icon-holder  {
-		
-						margin-bottom: 40px;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-body  {
-		
-						line-height: 1.5em;
-						font-size: 12px;
-						color: rgb(0, 0, 0);
-						max-width: 800px;
-						margin-top: 10px;
-						margin-bottom: 10px;
-						font-family: Arial;	
-		}
-	
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .middle_layout .helper-div  ,  .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .multi_layout .helper-div.middle-center .text-side  { 
-						max-width: 1000px;	
-		}
-	 .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-subtitle  ,  .style-4dfd23e6-fddfrwzf .style-1dbb1217-6rkb49z5 .preview-body h2  { 
-						font-family: Arial;
-						font-size: 14px;
-						color: rgb(0, 0, 0);
-						letter-spacing: -0.05em;
-						margin-right: 0px;
-						margin-top: 10px;
-						margin-left: 0px;
-						margin-bottom: 10px;
-						line-height: 1.5em;	
-		}
-
-/******************************************************************************************************
- *            UNIQUE STYLE
- *                                 	 
- ******************************************************************************************************/
- .style-1dbb1217-6rkb49z5 #vbid-e550694d-zcpvbqj1 .preview-content-holder{
-				
-							text-align : left;
-					
-				} .style-1dbb1217-6rkb49z5 #vbid-cb15e411-zcpvbqj1 .preview-content-holder{
-				
-							text-align : left;
-					
-				} .style-1dbb1217-6rkb49z5 #vbid-1dbb1217-3icuax6a .preview-content-holder{
-				
-							text-align : left;
-					
-				}
-
-
- .style-1dbb1217-6rkb49z5 #vbid-1dbb1217-n5vp36ja.inner-pic{
-				
-							background-position : 50.3135% 29.5905%;
-					
-				} .style-1dbb1217-6rkb49z5 #vbid-1dbb1217-iv7wer28.inner-pic{
-				
-							background-position : 49.2685470581055% 69.2805786132813%;
-					
-				} .style-1dbb1217-6rkb49z5 #vbid-1dbb1217-ts6zoefr.inner-pic{
-				
-							background-position : 50% 50%;
-					
-				}
-
-
-
-
-
-
-
-
-
-
-
- .style-1dbb1217-6rkb49z5 #vbid-e550694d-zcpvbqj1 .preview-content-wrapper{
-				
-							text-align : center;
-					
-				} .style-1dbb1217-6rkb49z5 #vbid-cb15e411-zcpvbqj1 .preview-content-wrapper{
-				
-							text-align : right;
-					
-				} .style-1dbb1217-6rkb49z5 #vbid-1dbb1217-3icuax6a .preview-content-wrapper{
 				
 							text-align : center;
 					
@@ -752,7 +542,7 @@
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 #pagination-holder  {
 		
-						border-width: 1px;
+						font-family: Times New Roman;
 						font-size: 18px;
 						color: rgb(131, 131, 131);
 						padding-bottom: 10px;
@@ -762,7 +552,7 @@
 						padding-left: 20px;
 						padding-top: 10px;
 						margin-bottom: 50px;
-						font-family: Times New Roman;	
+						border-width: 1px;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .multi_layout .helper-div.middle-center .pic-side  {
 		
@@ -777,8 +567,8 @@
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .multi_layout .helper-div.middle-center  {
 		
 						padding-left: 6%;
-						padding-right: 6%;
-						width: 88%;	
+						width: 88%;
+						padding-right: 6%;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .background-div  {
 			
@@ -788,23 +578,23 @@
 						background-color: rgba(0, 0, 0, 0);	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .preview-title  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .preview-body h1  { 
-						font-family: Arimo;
+						line-height: 1.2em;
 						font-size: 12px;
 						color: rgb(34, 34, 34);
 						letter-spacing: 0.0em;
 						margin-top: 5px;
 						margin-bottom: 0px;
-						line-height: 1.2em;
+						font-family: Arimo;
 						background-color: rgba(0, 0, 0, 0);	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3.master.item-box   {
 		
 						padding-left: 6%;
-						width: 88%;
-						padding-right: 6%;	
+						padding-right: 6%;
+						width: 88%;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .preview-item-links span  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 #sr-basket-widget *  { 
-						font-family: Arial;
+						border-width: 1px;
 						font-size: 12px;
 						padding-bottom: 10px;
 						letter-spacing: 0.1em;
@@ -813,7 +603,7 @@
 						padding-left: 15px;
 						border-radius: 0px;
 						padding-top: 10px;
-						border-width: 1px;	
+						font-family: Arial;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .blocks-preview-body  {
 		
@@ -879,20 +669,20 @@
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .preview-body  {
 		
 						color: rgb(119, 119, 119);
-						font-size: 12px;
-						font-family: Arial;
 						margin-top: 15px;
+						font-family: Arial;
+						font-size: 12px;
 						line-height: 1.4em;	
 		}
 	
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .blocks-preview-item-links .Link  {
 		
 						font-size: 13px;
-						padding-right: 10px;
+						margin-right: 0px;
 						color: rgb(255, 255, 255);
 						padding-bottom: 10px;
 						letter-spacing: 0.05em;
-						margin-right: 0px;
+						padding-right: 10px;
 						margin-top: 0px;
 						padding-left: 10px;
 						border-radius: 0px;
@@ -901,8 +691,11 @@
 						background-color: rgb(0, 0, 0);
 						margin-left: 0px;	
 		}
+	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .pic-side:after  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .item-effect-tester  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .sub.item-box:after  { 
+						background-color: rgb(237, 171, 38);	
+		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .preview-subtitle  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-sliertd3 .preview-body h2  { 
-						line-height: 1.2em;
+						font-family: Arial;
 						font-size: 10px;
 						color: rgb(147, 147, 147);
 						letter-spacing: 0.0em;
@@ -910,7 +703,7 @@
 						margin-top: 5px;
 						margin-left: 0px;
 						margin-bottom: 0px;
-						font-family: Arial;
+						line-height: 1.2em;
 						background-color: rgba(255, 255, 255, 0);	
 		}
 
@@ -954,6 +747,190 @@
 							background-position : 45.4918% 14.3443%;
 					
 				}
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-6eef5074-uxgqge2m
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m  .preview-content-holder  {
+		
+						text-align: left;
+						max-width: 600px;
+						margin-right: 0px;
+						margin-top: 50px;
+						margin-left: 0px;
+						margin-bottom: 50px;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-divider  {
+		
+						margin-bottom: 10px;
+						border-color: rgb(0, 0, 0);
+						margin-top: 10px;
+						border-bottom-width: 1px;
+						width: 10%;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .inner-pic  {
+		
+						color: rgb(0, 0, 0);
+						opacity: 0.38;
+		    			-webkit-filter: grayscale(100%);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						padding-right: 6%;
+						width: 88%;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-title  ,  .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-body h1  { 
+						font-family: Montserrat;
+						font-size: 39px;
+						color: rgb(0, 0, 0);
+						letter-spacing: -0.05em;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						line-height: 1.4em;
+						background-color: rgba(255, 255, 255, 0);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m.master.item-box   {
+		
+						padding-left: 0%;
+						width: 100%;
+						padding-right: 0%;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-item-links span  ,  .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m #sr-basket-widget *  { 
+						border-width: 1px;
+						font-size: 11px;
+						text-transform: uppercase;
+						color: rgb(0, 0, 0);
+						padding-bottom: 15px;
+						border-color: rgb(99, 99, 99);
+						letter-spacing: 0.1em;
+						margin-right: 5px;
+						margin-top: 40px;
+						margin-left: 5px;
+						padding-top: 15px;
+						font-family: Arial;
+						background-color: rgba(56, 110, 166, 0);
+						padding-right: 20px;
+						padding-left: 20px;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .stripe-background  {
+		
+						margin-left: 0%;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-element.icon-source  {
+		
+						padding-bottom: 0px;
+						margin-top: 0px;
+						padding-top: 0px;
+						margin-bottom: 0px;
+						width: 90px;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .background-image-div  {
+		
+						color: rgb(0, 0, 0);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-item-links span:before  ,  .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .effect-tester  { 
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m  .preview-content-wrapper  {
+		
+						text-align: left;
+						vertical-align: middle;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-item-links span:hover  ,  .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						background-color: rgb(0, 0, 0);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .inner-pic-holder  {
+		
+						background-color: rgb(234, 234, 234);	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-icon-holder  {
+		
+						margin-bottom: 40px;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-body  {
+		
+						font-family: Arial;
+						font-size: 20px;
+						color: rgb(23, 23, 23);
+						letter-spacing: 0em;
+						max-width: 600px;
+						margin-top: 10px;
+						line-height: 1.6em;
+						background-color: rgba(255, 248, 0, 0);	
+		}
+	
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .middle_layout .helper-div  ,  .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;	
+		}
+	 .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-subtitle  ,  .style-4dfd23e6-fddfrwzf .style-6eef5074-uxgqge2m .preview-body h2  { 
+						line-height: 1.1em;
+						font-size: 14px;
+						color: rgb(0, 0, 0);
+						letter-spacing: 0.05em;
+						margin-right: 0px;
+						margin-top: 10px;
+						margin-left: 0px;
+						margin-bottom: 5px;
+						font-family: Abel;	
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-6eef5074-uxgqge2m #vbid-6eef5074-z4cyzh53 .preview-content-holder{
+				
+							text-align : left;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .style-6eef5074-uxgqge2m #vbid-6eef5074-z4cyzh53 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
 
 
 
@@ -1031,7 +1008,7 @@
 						padding-right: 0%;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-xmubbxrp .preview-item-links span  ,  .style-4dfd23e6-fddfrwzf .style-4dfd23e6-xmubbxrp #sr-basket-widget *  { 
-						font-size: 52px;
+						font-size: 30px;
 						padding-right: 20px;
 						color: rgb(34, 34, 34);
 						padding-bottom: 10px;
@@ -1060,8 +1037,8 @@
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-xmubbxrp .preview-link-img  {
 		
-						width: 47px;
-						margin: 40px;	
+						width: 30px;
+						margin: 42px;	
 		}
 	 .style-4dfd23e6-fddfrwzf .style-4dfd23e6-xmubbxrp .preview-icon-holder  {
 		
