@@ -27,6 +27,10 @@
 						margin-bottom: 45px;
 						margin-top: 35px;	
 		}
+	 .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .subtitle-wrapper  {
+		
+						max-width: 1180px;	
+		}
 	 .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .Title  ,  .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .Body h1  { 
 						font-size: 22px;
 						color: rgb(0, 0, 0);
@@ -49,7 +53,6 @@
 						margin-left: 50px;
 						font-style: italic;	
 		}
-	
 	 .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .quote-author  {
 		
 						font-style: italic;
@@ -66,7 +69,7 @@
 		}
 	 .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .item-links span  {
 		
-						border-width: 1px;
+						font-family: Arial;
 						font-size: 13px;
 						color: rgb(0, 0, 0);
 						padding-bottom: 10px;
@@ -76,14 +79,11 @@
 						padding-left: 15px;
 						padding-top: 10px;
 						margin-bottom: 20px;
-						font-family: Arial;
+						border-width: 1px;
 						background-color: rgba(66, 117, 83, 0);
 						margin-left: 50px;	
 		}
-	 .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .subtitle-wrapper  {
-		
-						max-width: 1180px;	
-		}
+	
 	 .style-bd1e0a69-dzebo07f .style-4dfd23e6-fddfrwzf .body-wrapper  {
 		
 						max-width: 1032px;	
@@ -130,7 +130,7 @@
 			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
 						font-family: HelveNueThinNormal;
 				
-						letter-spacing: 0.35em;
+						letter-spacing: 0.2em;
 				
 						line-height: 1.4em;
 					
@@ -140,9 +140,9 @@
 	
 			.master.container.website-style .master.item-box:not(.custom) .preview-element.Link:not(.custom)  {
 		
-						letter-spacing: 0.2em;
-				
 						font-family: HelveNueThinNormal;
+				
+						letter-spacing: 0.2em;
 				
 						border-width: 2px;
 				
